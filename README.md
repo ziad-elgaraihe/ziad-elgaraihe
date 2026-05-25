@@ -3,7 +3,7 @@
 
 - 🚀 Building high-performance cross-platform applications with **Flutter**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Native Android Development with Kotlin**
 
 - ⚡ Fun fact **I’m addicted to learning new things every day!**
 
