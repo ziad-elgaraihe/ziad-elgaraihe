@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="bloc" src="https://github.com/user-attachments/assets/529f43b3-8e85-436a-80ec-6bbf8ecec225" /><h1 align="center">Hi 👋, I'm Ziad</h1>
+<h1 align="center">Hi 👋, I'm Ziad</h1>
 <h3 align="center">Flutter Developer</h3>&nbsp;
 
 - 🚀 Building high-performance cross-platform applications with **Flutter**
