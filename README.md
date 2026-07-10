@@ -25,19 +25,41 @@
 
 <h2>🚀 Featured Projects</h2>
 
-<h3><a href="https://play.google.com/store/apps/developer?id=kafarat+plus" target="_blank">📌 Kafarat Plus</a></h3>
+<h3>📌 Kafarat Plus 
+  <sub>
+    <a href="https://play.google.com/store/apps/details?id=com.alt.kfratcomcustomer" target="_blank">Client App</a>
+    |
+    <a href="https://play.google.com/store/apps/details?id=sa.kfratcom.business" target="_blank">Provider App</a>
+    |
+    <a href="https://kafaratplus.com/" target="_blank">Website</a>
+  </sub>
+</h3>
 <p> A full-featured automotive e-commerce app offering gas, tires, and accessories, with separate mobile apps for service providers and customers, and an admin dashboard for centralized management. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, API Integration, Firebase</p>
 
-<h3><a href="https://github.com/ziad-elgaraihe/rasid-app-showcase" target="_blank">📌 Rasid</a></h3>
+<h3>📌 Rasid 
+  <sub>
+    <a href="https://github.com/ziad-elgaraihe/rasid-app-showcase" target="_blank">App Showcase</a>
+  </sub>
+</h3>
 <p> A real-time facility management app with monitoring, alerts, and reporting. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, BLoC, MVVM, Hive, Dio, Firebase</p>
 
-<h3>📌 Sail <sub>(In Progress)</sub></h3>
+<h3>📌 Sail 
+  <sub>
+    (In Progress)
+  </sub>
+</h3>
 <p> A modern water tourism platform connecting passengers with boat providers through seamless booking and real-time trip requests. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, Google Maps API, Shared Preferences</p>
 
-<h3><a href="https://github.com/ziad-elgaraihe/portfolio" target="_blank">📌 Personal Portfolio</a></h3>
+<h3>📌 Personal Portfolio
+  <sub>
+    <a href="https://ziad-elgaraihe.vercel.app/" target="_blank">Website</a>
+    |
+    <a href="https://github.com/ziad-elgaraihe/portfolio" target="_blank">App Showcase</a>
+  </sub>
+</h3>
 <p> A modern responsive Flutter web portfolio showcasing my projects, experience, and technical skills with smooth animations and interactive UI. </p>
 <p><b>Tech Stack:</b> Flutter Web, Dart, Responsive UI, EmailJS</p>
 ---
